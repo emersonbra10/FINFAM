@@ -1,0 +1,6 @@
+{
+  "name": "FinFam",
+  "description": "Aplicativo de saúde financeira, orçamento e gamificação para toda a família.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
